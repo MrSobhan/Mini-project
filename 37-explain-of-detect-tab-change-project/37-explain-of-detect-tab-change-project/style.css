@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    font-family: "Poppins",sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 80px;
+}
+
+.pass {
+    color: #2bce56;
+}
+
+.faild {
+    color: #ec406a;
+}
